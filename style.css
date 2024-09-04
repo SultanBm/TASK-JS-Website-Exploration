@@ -1,7 +1,7 @@
 body {
-  color: rgb(19, 34, 248); /*This indicates the font color. Change this, and it will change initially*/
+  color:black; /*This indicates the font color. Change this, and it will change initially   rgb(19, 34, 248)*/
 
-  background: linear-gradient(-45deg, #5630df, #a4cae0, #d1cf52, #3acc0e);
+  background: linear-gradient(-45deg, #6aa5e1, #2f71ab, #19395a, #01172d);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
